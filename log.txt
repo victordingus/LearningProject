@@ -1,0 +1,557 @@
+1759-LW17BBBA/B 2.2 Build 19
+ISaGRAF Target 'IXMS-160', Kernel Build 5.70.36_(12/20/2016)
+@>log
+0053772685 I Mounted volume 'sdcard:\' (FAT16)
+0053778462 I ***MSDD: Uninitialized ***
+0053778462 I Unmounted volume 'sdcard:\'
+0053778463   SDCARD: Removed
+0053781898   SDCARD: Detected SD2 card (1.8779 GBytes available)
+0053781903 I Mounted volume 'sdcard:\' (FAT16)
+0053787678 I ***MSDD: Uninitialized ***
+0053787678 I Unmounted volume 'sdcard:\'
+0053787679   SDCARD: Removed
+0053791111   SDCARD: Detected SD2 card (1.8779 GBytes available)
+0053791116 I Mounted volume 'sdcard:\' (FAT16)
+0053796894 I ***MSDD: Uninitialized ***
+0053796894 I Unmounted volume 'sdcard:\'
+0053796895   SDCARD: Removed
+0053800318   SDCARD: Detected SD2 card (1.8779 GBytes available)
+0053800321 I Mounted volume 'sdcard:\' (FAT16)
+0053806110 I ***MSDD: Uninitialized ***
+0053806110 I Unmounted volume 'sdcard:\'
+0053806111   SDCARD: Removed
+0053809531   SDCARD: Detected SD2 card (1.8779 GBytes available)
+0053809535 I Mounted volume 'sdcard:\' (FAT16)
+0053815326 I ***MSDD: Uninitialized ***
+0053815326 I Unmounted volume 'sdcard:\'
+0053815327   SDCARD: Removed
+0053818733   SDCARD: Detected SD2 card (1.8779 GBytes available)
+0053818738 I Mounted volume 'sdcard:\' (FAT16)
+0053824542 I ***MSDD: Uninitialized ***
+0053824542 I Unmounted volume 'sdcard:\'
+0053824543   SDCARD: Removed
+0054125269 = 11/02/2017 07:28:44
+0054125269   SYS-SOC: Accept socket 13 from 192.168.0.80
+0054126096   SYS-SOC: Accept socket 11 from 192.168.0.80
+0054129005   SDCARD: Detected SD2 card (1.8779 GBytes available)
+0054129010 I Mounted volume 'sdcard:\' (FAT16)
+0054134814 I ***MSDD: Uninitialized ***
+0054134814 I Unmounted volume 'sdcard:\'
+0054134815   SDCARD: Removed
+0054138237   SDCARD: Detected SD2 card (1.8779 GBytes available)
+0054138241 I Mounted volume 'sdcard:\' (FAT16)
+0054144030 I ***MSDD: Uninitialized ***
+0054144030 I Unmounted volume 'sdcard:\'
+0054144031   SDCARD: Removed
+0054147450   SDCARD: Detected SD2 card (1.8779 GBytes available)
+0054147454 I Mounted volume 'sdcard:\' (FAT16)
+0054150693   SYS-SOC: Socket 13 connection broken 104
+0054150696   SYS-SOC: Close socket 13
+0054150774   SYS-SOC: Socket 11 connection broken 104
+0054150776   SYS-SOC: Close socket 11
+0054153246 I ***MSDD: Uninitialized ***
+0054153246 I Unmounted volume 'sdcard:\'
+0054153247   SDCARD: Removed
+0054156667   SDCARD: Detected SD2 card (1.8779 GBytes available)
+0054156671 I Mounted volume 'sdcard:\' (FAT16)
+0054162462 I ***MSDD: Uninitialized ***
+0054162462 I Unmounted volume 'sdcard:\'
+0054162463   SDCARD: Removed
+0054165898   SDCARD: Detected SD2 card (1.8779 GBytes available)
+0054165902 I Mounted volume 'sdcard:\' (FAT16)
+0054171678 I ***MSDD: Uninitialized ***
+0054171678 I Unmounted volume 'sdcard:\'
+0054171679   SDCARD: Removed
+0054175110   SDCARD: Detected SD2 card (1.8779 GBytes available)
+0054175114 I Mounted volume 'sdcard:\' (FAT16)
+0054180894 I ***MSDD: Uninitialized ***
+0054180894 I Unmounted volume 'sdcard:\'
+0054180895   SDCARD: Removed
+0054184303   SDCARD: Detected SD2 card (1.8779 GBytes available)
+0054184306 I Mounted volume 'sdcard:\' (FAT16)
+0054190110 I ***MSDD: Uninitialized ***
+0054190110 I Unmounted volume 'sdcard:\'
+0054190111   SDCARD: Removed
+0054193536   SDCARD: Detected SD2 card (1.8779 GBytes available)
+0054193541 I Mounted volume 'sdcard:\' (FAT16)
+0054199326 I ***MSDD: Uninitialized ***
+0054199326 I Unmounted volume 'sdcard:\'
+0054199327   SDCARD: Removed
+0054202757   SDCARD: Detected SD2 card (1.8779 GBytes available)
+0054202762 I Mounted volume 'sdcard:\' (FAT16)
+0054208542 I ***MSDD: Uninitialized ***
+0054208542 I Unmounted volume 'sdcard:\'
+0054208543   SDCARD: Removed
+0054211951   SDCARD: Detected SD2 card (1.8779 GBytes available)
+0054211956 I Mounted volume 'sdcard:\' (FAT16)
+0054217758 I ***MSDD: Uninitialized ***
+0054217758 I Unmounted volume 'sdcard:\'
+0054217759   SDCARD: Removed
+0054221183   SDCARD: Detected SD2 card (1.8779 GBytes available)
+0054221186 I Mounted volume 'sdcard:\' (FAT16)
+0054226974 I ***MSDD: Uninitialized ***
+0054226974 I Unmounted volume 'sdcard:\'
+0054226975   SDCARD: Removed
+0054230395   SDCARD: Detected SD2 card (1.8779 GBytes available)
+0054230400 I Mounted volume 'sdcard:\' (FAT16)
+0054236190 I ***MSDD: Uninitialized ***
+0054236190 I Unmounted volume 'sdcard:\'
+0054236191   SDCARD: Removed
+0054239603   SDCARD: Detected SD2 card (1.8779 GBytes available)
+0054239608 I Mounted volume 'sdcard:\' (FAT16)
+0054460047   SYS-SOC: Accept socket 11 from 192.168.0.80
+0054460446 I ***MSDD: Uninitialized ***
+0054460446 I Unmounted volume 'sdcard:\'
+0054460447   SDCARD: Removed
+0054460462   SYS-SOC: Accept socket 10 from 192.168.0.80
+0054463840   SDCARD: Detected SD2 card (1.8779 GBytes available)
+0054463845 I Mounted volume 'sdcard:\' (FAT16)
+0054469662 I ***MSDD: Uninitialized ***
+0054469662 I Unmounted volume 'sdcard:\'
+0054469663   SDCARD: Removed
+0054473082   SDCARD: Detected SD2 card (1.8779 GBytes available)
+0054473087 I Mounted volume 'sdcard:\' (FAT16)
+0054478071   SYS-SOC: Socket 11 connection broken 104
+0054478074   SYS-SOC: Close socket 11
+0054478155   SYS-SOC: Socket 10 connection broken 104
+0054478157   SYS-SOC: Close socket 10
+0054478878 I ***MSDD: Uninitialized ***
+0054478878 I Unmounted volume 'sdcard:\'
+0054478879   SDCARD: Removed
+0054482278   SDCARD: Detected SD2 card (1.8779 GBytes available)
+0054482282 I Mounted volume 'sdcard:\' (FAT16)
+0054488094 = 11/02/2017 07:34:49
+0054488094 I ***MSDD: Uninitialized ***
+0054488096 I Unmounted volume 'sdcard:\'
+0054488096   SDCARD: Removed
+0054491506   SDCARD: Detected SD2 card (1.8779 GBytes available)
+0054491511 I Mounted volume 'sdcard:\' (FAT16)
+0054497310 I ***MSDD: Uninitialized ***
+0054497310 I Unmounted volume 'sdcard:\'
+0054497311   SDCARD: Removed
+0054500721   SDCARD: Detected SD2 card (1.8779 GBytes available)
+0054500725 I Mounted volume 'sdcard:\' (FAT16)
+0054506526 I ***MSDD: Uninitialized ***
+0054506526 I Unmounted volume 'sdcard:\'
+0054506527   SDCARD: Removed
+0054668599 I Ethernet reset requested
+0054668599 I Disabling Ethernet
+0054668602   TELNET: Disconnected from 192.168.0.80:9515
+0054671739 I Ethernet enabled
+0054687224   TELNET: Connected to 192.168.0.80:48029
+0000000009 = 11/02/2017 07:39:42
+0000000010 = Init
+0000000013 R Reset! cause=0x000C
+0000000015 I 1759-LW17BBBA/B 2.2 Build 19
+0000000016 I File system initialized
+0000000029 I Mounted volume 'eflash:\' (FAT16)
+0000000908 I Ethernet enabled
+0000000910   TELNET: Listening for new sessions on 0.0.0.0:23
+0000001574 I Enip: Listening for new session
+0000001924   Starting ISaGRAF Kernel...
+0000001925   IXMS-160
+0000001926   Kernel - Build 5.70.36_(12/20/2016)
+0000001928   Copyright (C) 1990-2017, Rockwell Automation Canada, Ltd.
+0000001929   All rights reserved.
+0000001933   SYS-SPC: Space 0 'ISPfff1d' created, 1456 Bytes allocated
+0000001934   Target capabilities = 0x0392E830
+0000001938   SYS-SPC: Space 1 'ISP00116' created, 296 Bytes allocated
+0000001947   SYS-SPC: Space 2 'ISP00117' created, 13136 Bytes allocated
+0000001949   ETCP Isxs - Build 5.70.36_(12/20/2016)
+0000001950   SYS-SOC: Initialization of socket layer
+0000001953   SYS-SOC: Create socket 14
+0000001954   SYS-SOC: Set socket address port 1131
+0000001956   SYS-SOC: Bind socket 14 to 0.0.0.0
+0000001957   SYS-SOC: Listen socket 14
+0000001961   ISaRSI Isxs - Build 5.70.36_(12/20/2016)
+0000001967   Kernel 1: running
+0000001984   SYS-SPC: Space 3 'ISP00103' created, 2640 Bytes allocated
+0000002005   SYS-SPC: Space 'eflash:\ISP00103' loaded
+0000002012   SYS-SPC: Space 4 'ISP00104' created, 72 Bytes allocated
+0000002015   SYS-SPC: Space 5 'ISP00101' created, 272 Bytes allocated
+0000002096   SYS-SPC: Space 6 'ISP00115' created, 2224 Bytes allocated
+0000002111   SYS-SPC: Space 7 'ISP00102' created, 17432 Bytes allocated
+0000002159   SYS-SPC: Space 8 'ISP0011c' created, 16 Bytes allocated
+0000002195   SYS-SPC: Space 9 'ISP0013a' created, 507 Bytes allocated
+0000002199   SYS-SPC: Space 10 'ISP0013b' created, 507 Bytes allocated
+0000002288   Warning: a:1
+0000002306 I Enron: Listening for new session
+0000008219   TELNET: Connected to 192.168.0.80:48275
+0000309865   SYS-SOC: Accept socket 10 from 192.168.0.80
+0000311167   SYS-SOC: Accept socket 9 from 192.168.0.80
+0000558600 = 11/02/2017 07:49:05
+0000558599   SYS-SOC: Socket 10 connection broken 104
+0000558602   SYS-SOC: Close socket 10
+0000558793   SYS-SOC: Socket 9 connection broken 104
+0000558795   SYS-SOC: Close socket 9
+0000661374   SYS-SOC: Accept socket 10 from 192.168.0.80
+0000661788   SYS-SOC: Accept socket 9 from 192.168.0.80
+0000703086   SYS-SOC: Socket 10 connection broken 104
+0000703090   SYS-SOC: Close socket 10
+0000703170   SYS-SOC: Socket 9 connection broken 104
+0000703171   SYS-SOC: Close socket 9
+0000822057   SYS-SOC: Accept socket 10 from 192.168.0.80
+0000822575   SYS-SOC: Accept socket 9 from 192.168.0.80
+0001052051 = 11/02/2017 07:57:22
+0001052050   TELNET: Disconnected from 192.168.0.80:48275
+0001122194   SYS-SOC: Socket 10 connection broken 104
+0001122197   SYS-SOC: Close socket 10
+0001122275   SYS-SOC: Socket 9 connection broken 104
+0001122277   SYS-SOC: Close socket 9
+0001137534   SYS-SOC: Accept socket 12 from 192.168.0.80
+0001138156   SYS-SOC: Accept socket 11 from 192.168.0.80
+0001139851   SYS-SPC: Space 'ISP0013a' deleted, 507 Bytes freed
+0001139855   SYS-SPC: Space 'ISP0013b' deleted, 507 Bytes freed
+0001139858   SYS-SPC: Space 'ISP0011c' deleted, 16 Bytes freed
+0001139903   SYS-SPC: Space 'ISP00102' deleted, 17432 Bytes freed
+0001139905   SYS-SPC: Space 'ISP00101' deleted, 272 Bytes freed
+0001139907   SYS-SPC: Space 'ISP00115' deleted, 2224 Bytes freed
+0001139909   SYS-SPC: Space 'ISP00103' deleted, 2640 Bytes freed
+0001139911   SYS-SPC: Space 'ISP00104' deleted, 72 Bytes freed
+0001139925   Warning: b:1
+0001140255   SYS-SOC: Accept socket 9 from 192.168.0.80
+0001140275   WIZNET: PhySoc could not be allocated
+0001140289   WIZNET: PhySoc could not be allocated
+0001140293   WIZNET: PhySoc could not be allocated
+0001140306   WIZNET: PhySoc could not be allocated
+0001140313   SYS-SPC: Space 3 'ISPffe0d' created, 232 Bytes allocated
+0001140317   WIZNET: PhySoc could not be allocated
+0001140325   WIZNET: PhySoc could not be allocated
+0001140645   SYS-SPC: Space 'eflash:\ISPffe0d' saved
+0001140649   WIZNET: PhySoc could not be allocated
+0001140653   WIZNET: PhySoc could not be allocated
+0001140662   WIZNET: PhySoc could not be allocated
+0001140671   WIZNET: PhySoc could not be allocated
+0001140680   WIZNET: PhySoc could not be allocated
+0001140689   WIZNET: PhySoc could not be allocated
+0001140698   WIZNET: PhySoc could not be allocated
+0001140707   WIZNET: PhySoc could not be allocated
+0001140716   WIZNET: PhySoc could not be allocated
+0001140725   WIZNET: PhySoc could not be allocated
+0001140734   WIZNET: PhySoc could not be allocated
+0001140743   WIZNET: PhySoc could not be allocated
+0001140752   WIZNET: PhySoc could not be allocated
+0001140761   WIZNET: PhySoc could not be allocated
+0001140770   WIZNET: PhySoc could not be allocated
+0001140779   WIZNET: PhySoc could not be allocated
+0001140788   WIZNET: PhySoc could not be allocated
+0001140797   WIZNET: PhySoc could not be allocated
+0001140806   WIZNET: PhySoc could not be allocated
+0001140815   WIZNET: PhySoc could not be allocated
+0001140824   WIZNET: PhySoc could not be allocated
+0001140833   WIZNET: PhySoc could not be allocated
+0001140842   WIZNET: PhySoc could not be allocated
+0001140851   WIZNET: PhySoc could not be allocated
+0001140860   WIZNET: PhySoc could not be allocated
+0001140869   WIZNET: PhySoc could not be allocated
+0001140878   WIZNET: PhySoc could not be allocated
+0001140887   WIZNET: PhySoc could not be allocated
+0001140896   WIZNET: PhySoc could not be allocated
+0001140905   WIZNET: PhySoc could not be allocated
+0001140914   WIZNET: PhySoc could not be allocated
+0001140923   WIZNET: PhySoc could not be allocated
+0001140933   WIZNET: PhySoc could not be allocated
+0001140941   WIZNET: PhySoc could not be allocated
+0001140950   WIZNET: PhySoc could not be allocated
+0001140959   WIZNET: PhySoc could not be allocated
+0001140968   WIZNET: PhySoc could not be allocated
+0001140977   WIZNET: PhySoc could not be allocated
+0001140986   WIZNET: PhySoc could not be allocated
+0001140995   WIZNET: PhySoc could not be allocated
+0001141004   WIZNET: PhySoc could not be allocated
+0001141013   WIZNET: PhySoc could not be allocated
+0001141022   WIZNET: PhySoc could not be allocated
+0001141031   WIZNET: PhySoc could not be allocated
+0001141040   WIZNET: PhySoc could not be allocated
+0001141049   WIZNET: PhySoc could not be allocated
+0001141058   WIZNET: PhySoc could not be allocated
+0001141067   WIZNET: PhySoc could not be allocated
+0001141076   WIZNET: PhySoc could not be allocated
+0001141085   WIZNET: PhySoc could not be allocated
+0001141094   WIZNET: PhySoc could not be allocated
+0001141103   WIZNET: PhySoc could not be allocated
+0001141112   WIZNET: PhySoc could not be allocated
+0001141121   WIZNET: PhySoc could not be allocated
+0001141130   WIZNET: PhySoc could not be allocated
+0001141139   WIZNET: PhySoc could not be allocated
+0001141148   WIZNET: PhySoc could not be allocated
+0001141157   WIZNET: PhySoc could not be allocated
+0001141166   WIZNET: PhySoc could not be allocated
+0001141175   WIZNET: PhySoc could not be allocated
+0001141184   WIZNET: PhySoc could not be allocated
+0001141193   WIZNET: PhySoc could not be allocated
+0001141203 = 11/02/2017 07:58:51
+0001141202   WIZNET: PhySoc could not be allocated
+0001141213   WIZNET: PhySoc could not be allocated
+0001141222   WIZNET: PhySoc could not be allocated
+0001141231   WIZNET: PhySoc could not be allocated
+0001141240   WIZNET: PhySoc could not be allocated
+0001141249   WIZNET: PhySoc could not be allocated
+0001141258   WIZNET: PhySoc could not be allocated
+0001141267   WIZNET: PhySoc could not be allocated
+0001141276   WIZNET: PhySoc could not be allocated
+0001141285   WIZNET: PhySoc could not be allocated
+0001141294   WIZNET: PhySoc could not be allocated
+0001141303   WIZNET: PhySoc could not be allocated
+0001141312   WIZNET: PhySoc could not be allocated
+0001141321   WIZNET: PhySoc could not be allocated
+0001141330   WIZNET: PhySoc could not be allocated
+0001141339   WIZNET: PhySoc could not be allocated
+0001141348   WIZNET: PhySoc could not be allocated
+0001141357   WIZNET: PhySoc could not be allocated
+0001141366   WIZNET: PhySoc could not be allocated
+0001141375   WIZNET: PhySoc could not be allocated
+0001141384   WIZNET: PhySoc could not be allocated
+0001141393   WIZNET: PhySoc could not be allocated
+0001141402   WIZNET: PhySoc could not be allocated
+0001141411   WIZNET: PhySoc could not be allocated
+0001141420   WIZNET: PhySoc could not be allocated
+0001141429   WIZNET: PhySoc could not be allocated
+0001141438   WIZNET: PhySoc could not be allocated
+0001141447   WIZNET: PhySoc could not be allocated
+0001141456   WIZNET: PhySoc could not be allocated
+0001141465   WIZNET: PhySoc could not be allocated
+0001141474   WIZNET: PhySoc could not be allocated
+0001141483   WIZNET: PhySoc could not be allocated
+0001141492   WIZNET: PhySoc could not be allocated
+0001141501   WIZNET: PhySoc could not be allocated
+0001141510   WIZNET: PhySoc could not be allocated
+0001141519   WIZNET: PhySoc could not be allocated
+0001141528   WIZNET: PhySoc could not be allocated
+0001141537   WIZNET: PhySoc could not be allocated
+0001141546   WIZNET: PhySoc could not be allocated
+0001141555   WIZNET: PhySoc could not be allocated
+0001141564   WIZNET: PhySoc could not be allocated
+0001141573   WIZNET: PhySoc could not be allocated
+0001141582   WIZNET: PhySoc could not be allocated
+0001141591   WIZNET: PhySoc could not be allocated
+0001141600   WIZNET: PhySoc could not be allocated
+0001141609   WIZNET: PhySoc could not be allocated
+0001141618   WIZNET: PhySoc could not be allocated
+0001141627   WIZNET: PhySoc could not be allocated
+0001141636   WIZNET: PhySoc could not be allocated
+0001141645   WIZNET: PhySoc could not be allocated
+0001141654   WIZNET: PhySoc could not be allocated
+0001141663   WIZNET: PhySoc could not be allocated
+0001141672   WIZNET: PhySoc could not be allocated
+0001141681   WIZNET: PhySoc could not be allocated
+0001141690   WIZNET: PhySoc could not be allocated
+0001141699   WIZNET: PhySoc could not be allocated
+0001141708   WIZNET: PhySoc could not be allocated
+0001141717   WIZNET: PhySoc could not be allocated
+0001141726   WIZNET: PhySoc could not be allocated
+0001141735   WIZNET: PhySoc could not be allocated
+0001141744   WIZNET: PhySoc could not be allocated
+0001141753   WIZNET: PhySoc could not be allocated
+0001141762   WIZNET: PhySoc could not be allocated
+0001141771   WIZNET: PhySoc could not be allocated
+0001141780   WIZNET: PhySoc could not be allocated
+0001141789   WIZNET: PhySoc could not be allocated
+0001141798   WIZNET: PhySoc could not be allocated
+0001141807   WIZNET: PhySoc could not be allocated
+0001141816   WIZNET: PhySoc could not be allocated
+0001141825   WIZNET: PhySoc could not be allocated
+0001141834   WIZNET: PhySoc could not be allocated
+0001141847   WIZNET: PhySoc could not be allocated
+0001141852   WIZNET: PhySoc could not be allocated
+0001141861   WIZNET: PhySoc could not be allocated
+0001141870   WIZNET: PhySoc could not be allocated
+0001141879   WIZNET: PhySoc could not be allocated
+0001141888   WIZNET: PhySoc could not be allocated
+0001141897   WIZNET: PhySoc could not be allocated
+0001141906   WIZNET: PhySoc could not be allocated
+0001141915   WIZNET: PhySoc could not be allocated
+0001141924   WIZNET: PhySoc could not be allocated
+0001141933   WIZNET: PhySoc could not be allocated
+0001141942   WIZNET: PhySoc could not be allocated
+0001141951   WIZNET: PhySoc could not be allocated
+0001141960   WIZNET: PhySoc could not be allocated
+0001141969   WIZNET: PhySoc could not be allocated
+0001141978   WIZNET: PhySoc could not be allocated
+0001141987   WIZNET: PhySoc could not be allocated
+0001141996   WIZNET: PhySoc could not be allocated
+0001142005   WIZNET: PhySoc could not be allocated
+0001142015 = 11/02/2017 07:58:52
+0001142014   WIZNET: PhySoc could not be allocated
+0001142024   WIZNET: PhySoc could not be allocated
+0001142033   WIZNET: PhySoc could not be allocated
+0001142042   WIZNET: PhySoc could not be allocated
+0001142051   WIZNET: PhySoc could not be allocated
+0001142060   WIZNET: PhySoc could not be allocated
+0001142069   WIZNET: PhySoc could not be allocated
+0001142078   WIZNET: PhySoc could not be allocated
+0001142087   WIZNET: PhySoc could not be allocated
+0001142096   WIZNET: PhySoc could not be allocated
+0001142105   WIZNET: PhySoc could not be allocated
+0001142114   WIZNET: PhySoc could not be allocated
+0001142123   WIZNET: PhySoc could not be allocated
+0001142132   WIZNET: PhySoc could not be allocated
+0001142141   WIZNET: PhySoc could not be allocated
+0001142150   WIZNET: PhySoc could not be allocated
+0001142159   WIZNET: PhySoc could not be allocated
+0001142168   WIZNET: PhySoc could not be allocated
+0001142177   WIZNET: PhySoc could not be allocated
+0001142186   WIZNET: PhySoc could not be allocated
+0001142195   WIZNET: PhySoc could not be allocated
+0001142204   WIZNET: PhySoc could not be allocated
+0001142213   WIZNET: PhySoc could not be allocated
+0001142222   WIZNET: PhySoc could not be allocated
+0001142231   WIZNET: PhySoc could not be allocated
+0001142240   WIZNET: PhySoc could not be allocated
+0001142249   WIZNET: PhySoc could not be allocated
+0001142258   WIZNET: PhySoc could not be allocated
+0001142267   WIZNET: PhySoc could not be allocated
+0001142276   WIZNET: PhySoc could not be allocated
+0001142285   WIZNET: PhySoc could not be allocated
+0001142294   WIZNET: PhySoc could not be allocated
+0001142303   WIZNET: PhySoc could not be allocated
+0001142312   WIZNET: PhySoc could not be allocated
+0001142321   WIZNET: PhySoc could not be allocated
+0001142330   WIZNET: PhySoc could not be allocated
+0001142339   WIZNET: PhySoc could not be allocated
+0001142348   WIZNET: PhySoc could not be allocated
+0001142357   WIZNET: PhySoc could not be allocated
+0001142366   WIZNET: PhySoc could not be allocated
+0001142375   WIZNET: PhySoc could not be allocated
+0001142384   WIZNET: PhySoc could not be allocated
+0001142393   WIZNET: PhySoc could not be allocated
+0001142402   WIZNET: PhySoc could not be allocated
+0001142411   WIZNET: PhySoc could not be allocated
+0001142420   WIZNET: PhySoc could not be allocated
+0001142429   WIZNET: PhySoc could not be allocated
+0001142438   WIZNET: PhySoc could not be allocated
+0001142447   WIZNET: PhySoc could not be allocated
+0001142456   WIZNET: PhySoc could not be allocated
+0001142465   WIZNET: PhySoc could not be allocated
+0001142474   WIZNET: PhySoc could not be allocated
+0001142483   WIZNET: PhySoc could not be allocated
+0001142492   WIZNET: PhySoc could not be allocated
+0001142501   WIZNET: PhySoc could not be allocated
+0001142510   WIZNET: PhySoc could not be allocated
+0001142519   WIZNET: PhySoc could not be allocated
+0001142528   WIZNET: PhySoc could not be allocated
+0001142537   WIZNET: PhySoc could not be allocated
+0001142546   WIZNET: PhySoc could not be allocated
+0001142555   WIZNET: PhySoc could not be allocated
+0001142564   WIZNET: PhySoc could not be allocated
+0001142573   WIZNET: PhySoc could not be allocated
+0001142582   WIZNET: PhySoc could not be allocated
+0001142591   WIZNET: PhySoc could not be allocated
+0001142600   WIZNET: PhySoc could not be allocated
+0001142609   WIZNET: PhySoc could not be allocated
+0001142618   WIZNET: PhySoc could not be allocated
+0001142627   WIZNET: PhySoc could not be allocated
+0001142636   WIZNET: PhySoc could not be allocated
+0001142745   SYS-DSA: Deleted file 'eflash:\VMICONFIG.cfg'
+0001142747   WIZNET: PhySoc could not be allocated
+0001142751   WIZNET: PhySoc could not be allocated
+0001143933   WIZNET: PhySoc could not be allocated
+0001144077   SYS-SPC: Space 4 'ISP00103' created, 2640 Bytes allocated
+0001144123   SYS-SPC: Space 5 'ISP00104' created, 72 Bytes allocated
+0001144125   SYS-SPC: Space 6 'ISP00101' created, 272 Bytes allocated
+0001144134   SYS-SPC: Space 7 'ISP00115' created, 2224 Bytes allocated
+0001144383   SYS-SPC: Space 'eflash:\ISP00103' saved
+0001144587   SYS-SPC: Space 'eflash:\ISP00101' saved
+0001144636   SYS-SPC: Space 8 'ISP00102' created, 17432 Bytes allocated
+0001144685   SYS-SPC: Space 9 'ISP0011c' created, 16 Bytes allocated
+0001144721   SYS-SPC: Space 10 'ISP0013a' created, 507 Bytes allocated
+0001144725   SYS-SPC: Space 11 'ISP0013b' created, 507 Bytes allocated
+0001144816   Warning: a:1
+0001144927   SYS-SOC: Socket 9 connection broken 104
+0001144929 = 11/02/2017 07:58:55
+0001144928   SYS-SOC: Close socket 9
+0001145031   SYS-SOC: Socket 12 connection broken 104
+0001145032   SYS-SOC: Close socket 12
+0001146955   SYS-SOC: Socket 11 connection broken 104
+0001146957   SYS-SOC: Close socket 11
+0001147908 I Enron: Listening for new session
+0001214958   SYS-SOC: Accept socket 12 from 192.168.0.80
+0001215579   SYS-SOC: Accept socket 11 from 192.168.0.80
+0001219311   SYS-SPC: Space 'ISP0013a' deleted, 507 Bytes freed
+0001219314   SYS-SPC: Space 'ISP0013b' deleted, 507 Bytes freed
+0001219317   SYS-SPC: Space 'ISP0011c' deleted, 16 Bytes freed
+0001219362   SYS-SPC: Space 'ISP00102' deleted, 17432 Bytes freed
+0001219364   SYS-SPC: Space 'ISP00101' deleted, 272 Bytes freed
+0001219366   SYS-SPC: Space 'ISP00115' deleted, 2224 Bytes freed
+0001219368   SYS-SPC: Space 'ISP00103' deleted, 2640 Bytes freed
+0001219370   SYS-SPC: Space 'ISP00104' deleted, 72 Bytes freed
+0001219383   Warning: b:1
+0001220478   SYS-SOC: Accept socket 9 from 192.168.0.80
+0001220498   WIZNET: PhySoc could not be allocated
+0001220512   WIZNET: PhySoc could not be allocated
+0001220516   WIZNET: PhySoc could not be allocated
+0001220524   WIZNET: PhySoc could not be allocated
+0001220536   SYS-SPC: Space 'ISPffe0d' deleted, 232 Bytes freed
+0001220539   WIZNET: PhySoc could not be allocated
+0001220548   SYS-SPC: Space 3 'ISPffe0d' created, 232 Bytes allocated
+0001220550   WIZNET: PhySoc could not be allocated
+0001220559   WIZNET: PhySoc could not be allocated
+0001220747   SYS-SPC: Space 'eflash:\ISPffe0d' saved
+0001220749   WIZNET: PhySoc could not be allocated
+0001220753   WIZNET: PhySoc could not be allocated
+0001220762   WIZNET: PhySoc could not be allocated
+0001220771   WIZNET: PhySoc could not be allocated
+0001220780   WIZNET: PhySoc could not be allocated
+0001222497   SYS-DSA: Deleted file 'eflash:\VMICONFIG.cfg'
+0001223762   SYS-SPC: Space 4 'ISP00103' created, 2456 Bytes allocated
+0001223808   SYS-SPC: Space 5 'ISP00104' created, 72 Bytes allocated
+0001223810   SYS-SPC: Space 6 'ISP00101' created, 176 Bytes allocated
+0001223818   SYS-SPC: Space 7 'ISP00115' created, 2224 Bytes allocated
+0001224230   SYS-SPC: Space 'eflash:\ISP00103' saved
+0001224432   SYS-SPC: Space 'eflash:\ISP00101' saved
+0001224481   SYS-SPC: Space 8 'ISP00102' created, 17432 Bytes allocated
+0001224529   SYS-SPC: Space 9 'ISP0011c' created, 16 Bytes allocated
+0001224566   SYS-SPC: Space 10 'ISP0013a' created, 507 Bytes allocated
+0001224570   SYS-SPC: Space 11 'ISP0013b' created, 507 Bytes allocated
+0001224661   Warning: a:1
+0001224771   SYS-SOC: Socket 9 connection broken 104
+0001224774   SYS-SOC: Close socket 9
+0001224875   SYS-SOC: Socket 12 connection broken 104
+0001224877   SYS-SOC: Close socket 12
+0001226722   SYS-SOC: Socket 11 connection broken 104
+0001226724   SYS-SOC: Close socket 11
+0001227751 I Enron: Listening for new session
+0001320447   SYS-SOC: Accept socket 12 from 192.168.0.80
+0001321160   SYS-SOC: Socket 12 connection broken 104
+0001321163   SYS-SOC: Close socket 12
+0001322616   SYS-SOC: Accept socket 12 from 192.168.0.80
+0001323134   SYS-SOC: Socket 12 connection broken 104
+0001323136   SYS-SOC: Close socket 12
+0001324926   SYS-SOC: Accept socket 11 from 192.168.0.80
+0001325445   SYS-SOC: Accept socket 12 from 192.168.0.80
+0001327999   SYS-SPC: Space 'ISP0013a' deleted, 507 Bytes freed
+0001328002   SYS-SPC: Space 'ISP0013b' deleted, 507 Bytes freed
+0001328005   SYS-SPC: Space 'ISP0011c' deleted, 16 Bytes freed
+0001328050   SYS-SPC: Space 'ISP00102' deleted, 17432 Bytes freed
+0001328052   SYS-SPC: Space 'ISP00101' deleted, 176 Bytes freed
+0001328054   SYS-SPC: Space 'ISP00115' deleted, 2224 Bytes freed
+0001328056   SYS-SPC: Space 'ISP00103' deleted, 2456 Bytes freed
+0001328058   SYS-SPC: Space 'ISP00104' deleted, 72 Bytes freed
+0001328071   Warning: b:1
+0001329308   SYS-DSA: Deleted file 'eflash:\VMICONFIG.cfg'
+0001329699   SYS-SPC: Space 4 'ISP00103' created, 2456 Bytes allocated
+0001329749   SYS-SPC: Space 5 'ISP00104' created, 72 Bytes allocated
+0001329751   SYS-SPC: Space 6 'ISP00101' created, 176 Bytes allocated
+0001329759   SYS-SPC: Space 7 'ISP00115' created, 2224 Bytes allocated
+0001330002   SYS-SPC: Space 'eflash:\ISP00103' saved
+0001330203   SYS-SPC: Space 'eflash:\ISP00101' saved
+0001331111   SYS-SPC: Space 8 'ISP00102' created, 17432 Bytes allocated
+0001331159   SYS-SPC: Space 9 'ISP0011c' created, 16 Bytes allocated
+0001331196   SYS-SPC: Space 10 'ISP0013a' created, 507 Bytes allocated
+0001331200   SYS-SPC: Space 11 'ISP0013b' created, 507 Bytes allocated
+0001331290 = 11/02/2017 08:02:04
+0001331289   Warning: a:1
+0001331400   SYS-SOC: Socket 11 connection broken 104
+0001331401   SYS-SOC: Close socket 11
+0001333266   SYS-SOC: Socket 12 connection broken 104
+0001333268   SYS-SOC: Close socket 12
+0001369286   SYS-SOC: Accept socket 13 from 192.168.0.80
+0001369700   SYS-SOC: Accept socket 12 from 192.168.0.80
+0001503119   SYS-SOC: Socket 13 connection broken 104
+0001503122   SYS-SOC: Close socket 13
+0001503203   SYS-SOC: Socket 12 connection broken 104
+0001503205   SYS-SOC: Close socket 12
+0007673189 = 11/02/2017 09:48:31
+0007673189   TELNET: Connected to 192.168.0.80:54188
+552 Item(s), 24854 Bytes used, 3790 Bytes before roll-over
+@>
