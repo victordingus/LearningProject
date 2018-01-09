@@ -1,5 +1,5 @@
-1759-LW17BBBA/B 2.2 Build 19
-ISaGRAF Target 'IXMS-160', Kernel Build 5.70.36_(12/20/2016)
+
+
 @>log
 0053772685 I Mounted volume 'sdcard:\' (FAT16)
 0053778462 I ***MSDD: Uninitialized ***
